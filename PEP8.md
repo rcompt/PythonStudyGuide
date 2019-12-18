@@ -11,3 +11,7 @@
 3. Because the code in question predates the introduction of the guideline and there is no other reason to be modifying that code.
 4. When the code needs to remain compatible with older versions of Python that don't support the feature recommended by the style guide.
 
+## Code Lay-out
+* 4 spaces per indentation
+* Continuation lines should align wrapped elements either vertically using Python's implicit line joining inside parentheses, brackets and braces, or using a hanging indent 
+** When using a hanging indent the following should be considered; there should be no arguments on the first line and further indentation should be used to clearly distinguish itself as a continuation line.
