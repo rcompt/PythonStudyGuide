@@ -1,6 +1,6 @@
-##Code is read much more often than it is written
+## Code is read much more often than it is written
 
-##Advice
+## Advice
 * A style guide is about consistency
 * Do not break backwards compatibility just to comply with this PEP
 * Some other good reasons to ignore a particular guideline
